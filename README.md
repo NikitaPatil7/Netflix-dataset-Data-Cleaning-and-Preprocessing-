@@ -1,12 +1,12 @@
 # Netflix-dataset-Data-Cleaning-and-Preprocessing-
 Data cleaning and exploratory data analysis (EDA) on the Netflix Titles dataset. This project covers preprocessing, handling missing values, standardization, and visual insights using Python and Pandas.
-# 📺 Netflix Dataset - Data Cleaning and Preprocessing
+# Netflix Dataset - Data Cleaning and Preprocessing
 
 This project involves **data cleaning**, **preprocessing**, and **exploratory data analysis (EDA)** on the [Netflix Titles dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows). The goal is to make the raw data analysis-ready and uncover insights using Python and Pandas.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source**: Kaggle - [Netflix Titles](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **File**: `netflix_titles.csv`
@@ -15,16 +15,16 @@ This project involves **data cleaning**, **preprocessing**, and **exploratory da
 
 ---
 
-## 🔧 Tasks Performed
+## Tasks Performed
 
-### 1️⃣ Data Cleaning & Preprocessing
+### Data Cleaning & Preprocessing
 - Handled **missing values**
 - Removed **duplicates**
 - Standardized **text columns** (e.g., country, type)
 - Converted **date columns** to datetime format
 - Fixed **column names** and **data types**
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Distribution of **content type** (Movies vs. TV Shows)
 - Top **countries**, **directors**, and **genres**
 - Trend of **releases over the years**
@@ -32,7 +32,7 @@ This project involves **data cleaning**, **preprocessing**, and **exploratory da
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 | File Name                | Description                                     |
 |--------------------------|-------------------------------------------------|
@@ -43,7 +43,7 @@ This project involves **data cleaning**, **preprocessing**, and **exploratory da
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 🐍
 - Pandas 🐼
@@ -54,7 +54,7 @@ This project involves **data cleaning**, **preprocessing**, and **exploratory da
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 1. Clone this repo
